@@ -1,11 +1,6 @@
-
 # Visual Studio files
 .vs/
 bin/
 obj/
 *.user
 *.suo
-
-# Build results
-[Dd]ebug/
-[Rr]elease/
