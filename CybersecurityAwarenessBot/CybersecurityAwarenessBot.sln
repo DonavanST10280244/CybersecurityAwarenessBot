@@ -1,0 +1,53 @@
+<<<<<<< HEAD
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CybersecurityAwarenessBot", "CybersecurityAwarenessBot.csproj", "{B7322A56-37C6-43CE-B1DE-B387C20C9B5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7322A56-37C6-43CE-B1DE-B387C20C9B5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7322A56-37C6-43CE-B1DE-B387C20C9B5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7322A56-37C6-43CE-B1DE-B387C20C9B5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7322A56-37C6-43CE-B1DE-B387C20C9B5C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17C838D9-C602-460C-9D2F-6593507CBEED}
+	EndGlobalSection
+EndGlobal
+=======
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CybersecurityAwarenessBot", "CybersecurityAwarenessBot.csproj", "{B7322A56-37C6-43CE-B1DE-B387C20C9B5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7322A56-37C6-43CE-B1DE-B387C20C9B5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7322A56-37C6-43CE-B1DE-B387C20C9B5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7322A56-37C6-43CE-B1DE-B387C20C9B5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7322A56-37C6-43CE-B1DE-B387C20C9B5C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17C838D9-C602-460C-9D2F-6593507CBEED}
+	EndGlobalSection
+EndGlobal
+>>>>>>> 219b18906b86c2c4d3a128c4bd085d253a3ac89a

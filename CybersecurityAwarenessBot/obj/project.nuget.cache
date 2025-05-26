@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BIJBYki9Ycs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\donav\\source\\repos\\CybersecurityAwarenessBot\\CybersecurityAwarenessBot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\donav\\.nuget\\packages\\system.windows.extensions\\9.0.0\\system.windows.extensions.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
